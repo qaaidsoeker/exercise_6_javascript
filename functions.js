@@ -1,6 +1,6 @@
 // TODO: Create a function called greet that takes a name parameter
 function greet(name) {
-  return "Hello " + name;
+  return "Hello, " + name +'!";
 }
 // TODO: Make the greet function return "Hello, [name]!"
 greet("Qaaid");
